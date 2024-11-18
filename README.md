@@ -1,1 +1,1 @@
-# Family-Guy-Sentimental-Analysis
+# Family-Guy-Sentiment-Analysis
